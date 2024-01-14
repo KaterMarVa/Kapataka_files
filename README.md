@@ -1,1 +1,1 @@
-# Kapataka_files
+# Example of README.md
